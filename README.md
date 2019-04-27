@@ -1,0 +1,2 @@
+# ClusteredLogAggregator
+This utility allows the efficient aggregation of application logs generated while running a spark-submit command using spark-log4j.properties. We will make use of shell scripts to ensure easy installation, configuration and production level capabilities in the product. UI enabling for the product should be an aspiration. Our main aim here is to make the product as lightweight as possible.
